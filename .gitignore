@@ -1,0 +1,13 @@
+#Ignorar carpetas
+Imagen
+/imagen
+# imagen/carpeta_limpia/  si queremos ignorar una carpeta en especifica
+# imagen/** ignorar todas las carpetas y archivos dentro de imagen
+
+#ignorar Archivos
+Homer.webp
+#imagen/Homer.webp
+# *.jpg
+# imagen/*.jpg
+
+
